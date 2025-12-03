@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FTS Banner](https://via.placeholder.com/1200x300/1a73e8/ffffff?text=Fujiyama+Technology+Solutions)
+![FTS Banner](https://i.pinimg.com/736x/59/9a/da/599ada2479d1b3eed4bfc97d9a3f78c5.jpg)
 
 **Bridging Japanese Precision with Indonesian Innovation**
 
