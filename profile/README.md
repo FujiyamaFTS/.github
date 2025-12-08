@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FTS Banner](https://i.pinimg.com/736x/59/9a/da/599ada2479d1b3eed4bfc97d9a3f78c5.jpg)
+![FTS Banner](./fts-logo.png)
 
 **Bridging Japanese Precision with Indonesian Innovation**
 
